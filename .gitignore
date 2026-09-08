@@ -1,0 +1,26 @@
+# Local environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+
+# Credentials / keys
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Local/editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Production/private material intentionally outside the public snapshot
+Upload/
+tests/artifacts/
+dist/
+build/
