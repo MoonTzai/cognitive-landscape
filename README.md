@@ -62,7 +62,9 @@ run.sh
 
 这些文件现在属于**历史原始实现快照**；仓库根目录的 `index.html` 才是当前正式认知星图单文件入口。
 
-原始文件的冻结 SHA-256 与当前公开单页信息见 [SOURCE_SNAPSHOT.md](SOURCE_SNAPSHOT.md)。
+此前曾公开在根目录的旧版 `cognitive-landscape_bytest.html` 已移入 [`history-archive/`](history-archive/) 保存，不再作为当前入口维护。
+
+原始文件的冻结 SHA-256、旧单页归档与当前公开单页信息见 [SOURCE_SNAPSHOT.md](SOURCE_SNAPSHOT.md)。
 
 ## 产品原则
 

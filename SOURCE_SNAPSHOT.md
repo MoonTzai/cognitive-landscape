@@ -14,7 +14,19 @@ The repository root `index.html` is the current public single-file browser appli
 
 Current production size: `14,711,964 bytes`.
 
-This file is self-contained and includes the current Cognitive Landscape UI/runtime required for ordinary browser use.
+The current `index.html` is self-contained and includes the Cognitive Landscape UI/runtime required for ordinary browser use.
+
+## Archived superseded standalone
+
+A previous root-level standalone file has been moved to the repository history archive instead of remaining beside the current production entry:
+
+| Path | Historical role | SHA-256 |
+|---|---|---|
+| `history-archive/2026-09-21-pre-vnext/cognitive-landscape_bytest.html` | Superseded standalone DeepSeek-oriented HTML | `213e99a7afe35ec3284c962e36a836cc091df4d325e6d4042c087b8771af8c0d` |
+
+Historical size: `203,059 bytes`.
+
+See [history-archive/README.md](history-archive/README.md).
 
 ## Historical original implementation
 
@@ -56,4 +68,4 @@ The public repository does not intentionally publish:
 - test artifact directories and generated acceptance screenshots;
 - machine-specific configuration.
 
-The current root `index.html` itself is a production deliverable, not a TEST artifact.
+The current root `index.html` is a production deliverable, not a TEST artifact.
