@@ -11,7 +11,7 @@
 
 ## 当前公开版本
 
-仓库根目录的 `index.html` 现在就是最新的 **认知星图 / Cognitive Landscape 单文件母版**。
+仓库根目录的 `Cognitive-Landscape.html` 是最新的 **认知星图 / Cognitive Landscape 单文件母版**。`index.html` 仅作为 GitHub Pages 根地址的轻量跳转入口。
 
 它是完整、自包含的浏览器应用，不再依赖首发版本的 Python 后端或外部前端脚本即可打开。当前公开版包括：
 
@@ -27,7 +27,7 @@
 
 当前正式单页：
 
-- `index.html`
+- `Cognitive-Landscape.html`
 - SHA-256: `6d9b07477a70659970767c10349b9907e07ce2b91e2bcc1aa2f35e789606c61e`
 - Size: `14,711,964 bytes`
 
@@ -35,9 +35,15 @@
 
 直接下载或打开仓库根目录：
 
-`index.html`
+`Cognitive-Landscape.html`
 
 即可运行当前正式版。
+
+GitHub Pages 在线入口：
+
+`https://moontzai.github.io/cognitive-landscape/`
+
+该地址通过轻量 `index.html` 自动进入 `Cognitive-Landscape.html`。
 
 如果要发起真实模型请求，请在页面内选择供应商并输入对应 API Key。不要把真实密钥写入 HTML、JavaScript、提交记录或 issue。当前页面不会持久化保存 API Key。
 
@@ -60,7 +66,7 @@ requirements.txt
 run.sh
 ```
 
-这些文件现在属于**历史原始实现快照**；仓库根目录的 `index.html` 才是当前正式认知星图单文件入口。
+这些文件现在属于**历史原始实现快照**；仓库根目录的 `Cognitive-Landscape.html` 才是当前正式认知星图单文件应用。
 
 此前曾公开在根目录的旧版 `cognitive-landscape_bytest.html` 已移入 [`history-archive/`](history-archive/) 保存，不再作为当前入口维护。
 
@@ -106,4 +112,4 @@ Cognitive Landscape / 认知星图不是替人寻找一个“最好的 AI 论点
 ---
 
 Repository: **Cognitive Landscape / 认知星图**  
-Current executable: **self-contained single-file browser application**
+Current executable: **Cognitive-Landscape.html · self-contained single-file browser application**

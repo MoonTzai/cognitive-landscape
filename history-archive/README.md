@@ -15,4 +15,4 @@ This file is the older standalone DeepSeek-oriented HTML that previously existed
 
 It is retained only for provenance and historical comparison.
 
-The current production application is the repository root `index.html`.
+The current production application is the repository root `Cognitive-Landscape.html`; `index.html` is only the GitHub Pages redirect entry.

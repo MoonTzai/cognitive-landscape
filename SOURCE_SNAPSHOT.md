@@ -6,15 +6,16 @@ Repository/project identity and public title:
 
 **Cognitive Landscape / 认知星图**
 
-The repository root `index.html` is the current public single-file browser application.
+The repository root `Cognitive-Landscape.html` is the current public single-file browser application. The root `index.html` is only a lightweight GitHub Pages redirect entry.
 
 | Path | Role | SHA-256 |
 |---|---|---|
-| `index.html` | Current production single-file application | `6d9b07477a70659970767c10349b9907e07ce2b91e2bcc1aa2f35e789606c61e` |
+| `Cognitive-Landscape.html` | Current production single-file application | `6d9b07477a70659970767c10349b9907e07ce2b91e2bcc1aa2f35e789606c61e` |
+| `index.html` | GitHub Pages redirect entry | `6584d1a9dfd1ca16c44ed4ce899bf7a2612e33421157508b922d8a52149db86e` |
 
 Current production size: `14,711,964 bytes`.
 
-The current `index.html` is self-contained and includes the Cognitive Landscape UI/runtime required for ordinary browser use.
+The current `Cognitive-Landscape.html` is self-contained and includes the Cognitive Landscape UI/runtime required for ordinary browser use.
 
 ## Archived superseded standalone
 
@@ -47,7 +48,7 @@ The historical original root `index.html` had SHA-256:
 
 `62c0195591c60b2b04d91c8428f6b781a036f226de393e9a5bc1a1280028952d`
 
-It has now been intentionally replaced by the current production Cognitive Landscape single-file application.
+The historical root entry has now been replaced by a lightweight Pages redirect, while the current production application is published as `Cognitive-Landscape.html`.
 
 ## Authorship continuity
 
@@ -68,4 +69,4 @@ The public repository does not intentionally publish:
 - test artifact directories and generated acceptance screenshots;
 - machine-specific configuration.
 
-The current root `index.html` is a production deliverable, not a TEST artifact.
+The current `Cognitive-Landscape.html` is a production deliverable, not a TEST artifact; the root `index.html` is only the Pages redirect entry.
