@@ -10,10 +10,10 @@ The repository root `Cognitive-Landscape.html` is the current public single-file
 
 | Path | Role | SHA-256 |
 |---|---|---|
-| `Cognitive-Landscape.html` | Current production single-file application | `6d9b07477a70659970767c10349b9907e07ce2b91e2bcc1aa2f35e789606c61e` |
+| `Cognitive-Landscape.html` | Current production single-file application | `f10565fcca32d6a1eb823d322bbb3f97024bd6851d4a6bf08f561fc7ed9c5781` |
 | `index.html` | GitHub Pages redirect entry | `6584d1a9dfd1ca16c44ed4ce899bf7a2612e33421157508b922d8a52149db86e` |
 
-Current production size: `14,711,964 bytes`.
+Current production size: `14,726,989 bytes`.
 
 The current `Cognitive-Landscape.html` is self-contained and includes the Cognitive Landscape UI/runtime required for ordinary browser use.
 
